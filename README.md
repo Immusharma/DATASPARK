@@ -12,9 +12,13 @@ DataSpark: Illuminating Insights for Global Electronics is a comprehensive Power
 
 Tools & Technologies:
 	Python: The core scripting language used for data extraction, processing, and automation.
+
 	Pandas & SQLAlchemy: Leveraged for powerful data manipulation, analysis, and seamless interaction with databases.
+
 	MySQL: The structured data storage system used to manage and retrieve vast datasets efficiently.
+
 	Microsoft Power BI: The business intelligence tool used to visualize insights and deliver interactive reports.
+
 Key Findings:
 The analysis provided critical insights that can improve both sales performance and overall profitability. Our findings pinpointed specific areas where operational enhancements could significantly impact business growth, including identifying underperforming segments and strategies to drive improvement.
 This project has the potential to transform how data-driven decisions are made within the retail electronics industry by turning raw data into meaningful and strategic business intelligence
