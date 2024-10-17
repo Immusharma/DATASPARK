@@ -16,7 +16,7 @@ Tools & Technologies:
 
  Python: The core scripting language used for data extraction, processing, and automation.
 
- Pandas & SQLAlchemy: Leveraged for powerful data manipulation, analysis, and seamless interaction with databases.
+ Pandas & SQL: Leveraged for powerful data manipulation, analysis, and seamless interaction with databases.
 
  MySQL: The structured data storage system used to manage and retrieve vast datasets efficiently.
 
