@@ -8,6 +8,7 @@ Power BI Report Link: DataSpark: Illuminating Insights for Global Electronics
 LinkedIn Post URL: https://www.linkedin.com/posts/mohammed-imran-c_excited-to-announce-the-completion-of-activity-7252749484294647808-w4iY?utm_source=share&utm_medium=member_desktop	
 
 Project Overview:
+
 DataSpark: Illuminating Insights for Global Electronics is a comprehensive Power BI report that showcases our in-depth analysis of customer behavior, sales trends, product performance, and store operations. 
 Through this project, we streamlined data collection processes and delivered actionable insights that have the potential to enhance decision-making in retail strategy, drive operational efficiency, and elevate profitability.
 
