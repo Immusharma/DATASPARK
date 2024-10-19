@@ -3,7 +3,7 @@ Data Spark Illuminating Insights for Global Electronics
 
 LinkedIn Profile: www.linkedin.com/in/mohammed-imran-c
 
-Power BI Report Link: DataSpark: Illuminating Insights for Global Electronics
+Power BI Report Link: https://app.powerbi.com/groups/me/reports/ba3fb432-d91d-43f3-9c3c-5eab23285ec2/96c2b571cde07da8a9f3?experience=power-bi&clientSideAuth=0
 
 LinkedIn Post URL: https://www.linkedin.com/posts/mohammed-imran-c_excited-to-announce-the-completion-of-activity-7252749484294647808-w4iY?utm_source=share&utm_medium=member_desktop	
 
